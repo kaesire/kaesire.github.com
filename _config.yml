@@ -64,15 +64,15 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:kaesire
-twitter_tweet_count: 4
+twitter_user: kaesire
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:kaesireblog
+disqus_short_name: kaesireblog
 disqus_show_comment_count: true
 
 # Google Analytics
