@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://kaesire.github.com
-title: Kai's Blog
+title: 象牙山村村委会
 subtitle: 基于octopress的碎碎念
 author: Tom Fu
 simple_search: http://google.com/search
@@ -65,14 +65,14 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: kaesire
-twitter_tweet_count: 4
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
