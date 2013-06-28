@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kai's Blog]]></title>
+  <link href="http://kaesire.github.com/atom.xml" rel="self"/>
+  <link href="http://kaesire.github.com/"/>
+  <updated>2013-06-28T15:44:35+08:00</updated>
+  <id>http://kaesire.github.com/</id>
+  <author>
+    <name><![CDATA[Tom Fu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Pray for Muamba]]></title>
+    <link href="http://kaesire.github.com/blog/2012/03/18/pray-for-muamba/"/>
+    <updated>2012-03-18T14:58:00+08:00</updated>
+    <id>http://kaesire.github.com/blog/2012/03/18/pray-for-muamba</id>
+    <content type="html"><![CDATA[<p>Mar 18<br/>
+今天凌晨在客厅米兰的比赛，闫晨突然跑来跟我们说：“粗大事了，博尔顿倒了一个球员。”打开pplive一看，热刺和博尔顿的球员已经退场了，比赛终止了。<br/>
+原来是博尔顿中场球员姆万巴在比赛进行到上半场第41分钟时突然猝倒，一度中止呼吸。此刻我也没心情看米兰了，赶紧打开贴吧、twitter，希望得到最新的消息。无论是热刺吧，博尔顿吧还是别的，许多别的球队的球迷都发来祝福。而twitter上面费迪南德、查理亚当等人也都发来祝福，#prayformuanba 的标签也充满了屏幕。<br/>
+这几年球员突然猝死的悲剧不在少数，福、普埃尔塔、哈尔克等人相继永远离开了绿茵场。在我写这篇文章的时候，姆万巴仍然在医院急救。足球高于生死但又无关生死，还有什么比生命更重要呢？<br/>
+Pray for you。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[开始使用octopress]]></title>
+    <link href="http://kaesire.github.com/blog/2012/03/16/kai-shi-shi-yong-octopress/"/>
+    <updated>2012-03-16T15:20:00+08:00</updated>
+    <id>http://kaesire.github.com/blog/2012/03/16/kai-shi-shi-yong-octopress</id>
+    <content type="html"><![CDATA[<p>16 March<br/>
+本来在google app engine上面有个独立博客的，后来博客慢慢长草了。其一因为我惰性使然，二来生活平淡到实在没什么东西写上。<br/>
+上学期参加了开源社区的git交流会，慢慢接触了github。github是个好网站，可以多人协助coding，还可以在上面放自己的代码或者独立博客系统什么的（比如我现在用的octopress）。相比于一般的独立博客系统（比如wordpress），octopress更加轻量一些（它是静态的），而且更有hacker范儿。比如现在我写的这篇文章就是在vim下面写好，然后一会还要push到github上面去。<br/>
+@seansay同学建议我买个域名，但是手头的闲钱都用来买护肤品或者烫发或者吃饭用掉了，此事再议。<br/>
+最后感谢@seansay帮我配置好了ruby，从而能生成这个页面。</p>
+]]></content>
+  </entry>
+  
+</feed>
